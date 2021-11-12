@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans&display=swap');
+
+.logo{
+    padding: 10px;
+    height: auto;
+    width: 60px;
+  }
+.logos{
+    float: left;
+    background-color: #003e29
+    ;
+    width: 100%;
+
+}
+.footer{
+    background-color: aqua;
+}
+p{
+    text-align: center;
+    font-family: 'Alumni Sans', sans-serif;
+}
